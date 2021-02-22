@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{AD446059-D5A5-AB48-4933-D9DB1C980325}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "C++12주차", "..\C++12주차\C++12주차.vcxproj", "{FB664039-C6D7-487F-9A7A-9DB3E4294EFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD446059-D5A5-AB48-4933-D9DB1C980325}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD446059-D5A5-AB48-4933-D9DB1C980325}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD446059-D5A5-AB48-4933-D9DB1C980325}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD446059-D5A5-AB48-4933-D9DB1C980325}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB664039-C6D7-487F-9A7A-9DB3E4294EFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB664039-C6D7-487F-9A7A-9DB3E4294EFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB664039-C6D7-487F-9A7A-9DB3E4294EFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB664039-C6D7-487F-9A7A-9DB3E4294EFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

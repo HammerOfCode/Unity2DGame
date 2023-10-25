@@ -1,2 +1,3 @@
 # Roboshooter
-This is a game I made while learning Unity during my 4th semester 
+Unity based 2D shooting game
+Made up out of free assets 

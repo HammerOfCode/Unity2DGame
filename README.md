@@ -5,16 +5,16 @@
 
 ---
 
-**How the game works?**
+**How does the game work?**.
 ![System](./srcr/system.png).
 
-**Score**
+**Score**.
 
 ![Start](./srcr/scenario1.png).
 
 ![End](./srcr/scenario2.png).
 
-**GamePlay**
+**GamePlay**.
 ![gameplay](./srcr/roboshooter.png).
 
 

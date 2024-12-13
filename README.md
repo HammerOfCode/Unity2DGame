@@ -15,7 +15,9 @@
 ![End](./srcr/scenario2.png).
 
 **GamePlay**.
-![gameplay](./srcr/roboshooter.png).
+<b>
+<img src="./srcr/roboshooter.png" alt="gameplay">
+
 
 
 
